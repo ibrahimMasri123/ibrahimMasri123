@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ibrahim Masri
 - 👀 I’m interested in Softwear Engineering, Artificial Intelligence and Distributed Systems 
 - 🌱 I’m currently learning Distributed Systems, Python, ML, DL, NLP.
-- 💞️ I’m looking to collaborate on Distributed Systems projects.
+- 💞️ I’m looking to collaborate on ML and DL projects.
 - 📫 How to reach me: 
           Instagram: ibrahim.masri94
           Email: ibrahim.masri94@gmail.com
